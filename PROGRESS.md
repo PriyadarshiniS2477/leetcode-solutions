@@ -16,9 +16,9 @@
 
 | 19/09/2026 | Longest Common Prefix           | Arrays \& Strings | Easy       | ✅ Completed | —   25 min       |
 
-| 19/09/2026 | Binary Search                   | Basic Algorithms | Easy       | ⬜ Not Started | —          |
+| 19/09/2026 | Binary Search                   | Basic Algorithms | Easy       | ✅ Completed | —   20 min       |
 
-| 19/09/2026 | Move Zeroes                     | Basic Algorithms | Easy       | ⬜ Not Started | —          |
+| 19/09/2026 | Move Zeroes                     | Basic Algorithms | Easy       | ✅ Completed | — 17 min         |
 
 | 19/09/2026 | Valid Parentheses               | Stacks           | Easy       | ⬜ Not Started | —          |
 
