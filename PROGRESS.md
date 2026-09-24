@@ -6,9 +6,9 @@
 
 | ---------- | ------------------------------- | ---------------- | ---------- | ------------- | ---------- |
 
-| 19/09/2026 | Two Sum                         | Arrays \& Strings | Easy       | ⬜ Not Started | —          |
+| 19/09/2026 | Two Sum                         | Arrays \& Strings | Easy       | ✅ Completed  | —   15 min       |
 
-| 19/09/2026 | Reverse a String                | Arrays \& Strings | Easy       | ⬜ Not Started | —          |
+| 19/09/2026 | Reverse a String                | Arrays \& Strings | Easy       | ✅ Completed | —     15 min     |
 
 | 19/09/2026 | Valid Anagram                   | Arrays \& Strings | Easy       | ⬜ Not Started | —          |
 
